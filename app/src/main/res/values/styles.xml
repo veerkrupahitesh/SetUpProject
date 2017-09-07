@@ -17,6 +17,7 @@
     </style>
 
     <!--custom dialog style-->
+
     <style name="DatePickerDialogTheme" parent="@style/ThemeOverlay.AppCompat.Dialog">
         <item name="android:color">@color/colorAccent</item>
         <!--  <item list="android:background">@color/colorAccent</item>-->
